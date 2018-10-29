@@ -10,8 +10,6 @@
 using namespace std;
 
 int main() {
-	int a=3;
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	cout << a;
 	return 0;
 }
